@@ -1,5 +1,7 @@
 # SESION DE LABORATORIO N° 02: Consumiendo datos de una base de datos Microsoft SQL Server
 
+Nombre:
+
 ## OBJETIVOS
   * Comprender el funcionamiento de una aplicación que consume una base de datos relacional contenerizada.
 
