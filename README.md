@@ -201,5 +201,5 @@ docker-compose up -d
 
 ---
 ## Actividades Encargadas
-1. Completar los controladores para las clases Cliente y ClientesDocumento.
+1. Escribir el código necesrio para completar los controladores para las clases Cliente y ClientesDocumento.
 
